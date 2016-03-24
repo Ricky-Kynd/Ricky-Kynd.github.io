@@ -1,12 +1,3 @@
-#	Authour: Ricky S Katafono
-#	Welcome to the Life of Mr. Kynd site creation documentation
-#	The intended purpose of this site is mainly for publishing blog content in relation to EDA curriculum while learning to create a site using the essential technologies.
-
-#	IMPORTANT INFORMATION
- 	#Due to my lack of knowledge as well as my quest to gain more knowledge in building this website, this is what I can do currently. I am well aware of how broken the site is and am doing my best to fix it 
-
-# Ricky-Kynd.github.io // The site link
-
 #	CURRENT VERSION 1.0.1
 
 
