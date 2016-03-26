@@ -200,7 +200,7 @@ span {
 .blog-wrap {
 	background-color: rgba(247, 247, 247, 1);
 	color: #777;
-	overflow: auto;
+	overflow-y: scroll;
 }
 
 /*heading*/
