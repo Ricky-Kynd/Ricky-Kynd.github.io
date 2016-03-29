@@ -1,7 +1,7 @@
 #	CURRENT VERSION 1.0.1
 
 
-#	Version 1.0,1 // Released March 24
+#	Version 1.0.1 // Released March 24
 	#Changes made include
 			#Updating content page with a visible scrollbar
 		
